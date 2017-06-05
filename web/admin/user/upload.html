@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>无标题文档</title>
+</head>
+
+<body>
+<!-- enctype的值很重要,upload.jsp为处理上传的jsp-->
+ <!-- application/x-www-form-urlencoded -->
+
+<form name="form1"  method="post" 
+      enctype="multipart/form-data"
+action="uploadSingleFile.jsp">
+
+
+    
+    <p>
+  <input name="file1" type="file">
+</p>
+
+<p>
+  <input type="submit" name="Submit" value="上传">
+</p>
+</form >
+
+</body>
+</html> 

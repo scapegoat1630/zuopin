@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/zhangpeng12/Desktop/作业/zuopin/src/java/org/byau/util/JDBCUtils.java</file>
+            <file>file:/C:/Users/zhangpeng12/Desktop/作业/zuopin/web/index.jsp</file>
+            <file>file:/C:/Users/zhangpeng12/Desktop/作业/zuopin/web/admin/question/list_Chaxun.jsp</file>
+            <file>file:/C:/Users/zhangpeng12/Desktop/作业/zuopin/web/admin/index.jsp</file>
+            <file>file:/C:/Users/zhangpeng12/Desktop/作业/zuopin/web/admin/question/batchDelete/list_Questions.jsp</file>
+            <file>file:/C:/Users/zhangpeng12/Desktop/作业/zuopin/src/java/org/byau/util/RandomFileRenamePolicy.java</file>
+            <file>file:/C:/Users/zhangpeng12/Desktop/作业/zuopin/web/admin/question/listALL.jsp</file>
+            <file>file:/C:/Users/zhangpeng12/Desktop/作业/zuopin/web/image.jsp</file>
+            <file>file:/C:/Users/zhangpeng12/Desktop/作业/zuopin/src/java/org/byau/servlet/BaseServlet.java</file>
+            <file>file:/C:/Users/zhangpeng12/Desktop/作业/zuopin/web/admin/questionmvc/batch_delete_questions.jsp</file>
+            <file>file:/C:/Users/zhangpeng12/Desktop/作业/zuopin/web/check.jsp</file>
+            <file>file:/C:/Users/zhangpeng12/Desktop/作业/zuopin/src/java/org/byau/bean/LogInfo.java</file>
+            <file>file:/C:/Users/zhangpeng12/Desktop/作业/zuopin/web/admin/questionmvc/list_Fenye_mvc.jsp</file>
+            <file>file:/C:/Users/zhangpeng12/Desktop/作业/zuopin/src/java/org/byau/servlet/QuestionServlet.java</file>
+            <file>file:/C:/Users/zhangpeng12/Desktop/作业/zuopin/src/java/org/byau/bean/Question.java</file>
+            <file>file:/C:/Users/zhangpeng12/Desktop/作业/zuopin/web/admin/questionmvc/list_questions_jstl.jsp</file>
+            <file>file:/C:/Users/zhangpeng12/Desktop/作业/zuopin/web/admin/logout.jsp</file>
+            <file>file:/C:/Users/zhangpeng12/Desktop/作业/zuopin/web/admin/questionmvc/getJson.jsp</file>
+            <file>file:/C:/Users/zhangpeng12/Desktop/作业/zuopin/src/java/org/byau/filter/AdminLoginFilter.java</file>
+            <file>file:/C:/Users/zhangpeng12/Desktop/作业/zuopin/web/admin/question/list_Fenye.jsp</file>
+            <file>file:/C:/Users/zhangpeng12/Desktop/作业/zuopin/web/login.jsp</file>
+            <file>file:/C:/Users/zhangpeng12/Desktop/作业/zuopin/web/admin/question/batchDelete/batchSelect.jsp</file>
+            <file>file:/C:/Users/zhangpeng12/Desktop/作业/zuopin/src/java/org/byau/dao/QuestionDAO.java</file>
+            <file>file:/C:/Users/zhangpeng12/Desktop/作业/zuopin/web/admin/question/delete.jsp</file>
+            <file>file:/C:/Users/zhangpeng12/Desktop/作业/zuopin/web/admin/question/list_toexcel.jsp</file>
+        </group>
+    </open-files>
+</project-private>
